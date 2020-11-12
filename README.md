@@ -51,4 +51,34 @@ If you enter the index of a body of water where your level is sufficient to ente
 Next, you will be told what type of sea creature appeared and you only need to follow the instructions as mentioned in the command line interface
 at this situation.
 
+### Shopping
 
+If you choose to go shopping, you will be given a list of fishing rods which you can buy. Then, you will be asked to enter the index of the fishing rod
+you want to buy. If you have sufficient coins to buy it, it will be added to your list of fishing rods owned. The screenshot below shows a cropped list
+of fishing rods sold in the shop.
+
+![Shopping](https://github.com/DtjiSoftwareDeveloper/Fishing-Tycoon/blob/main/images/Shopping.png)
+
+### Upgrading Fishing Rod
+
+Once you decided to upgrade your fishing rod, if you have sufficient coins, the fishing rod will be levelled up which means it will be stronger.
+
+### Selling Fishing Rod
+
+If you choose to sell a fishing rod and own fishing rods, you will be asked to enter the index of the fishing rod you want to sell from the list
+of fishing rods you own. You will earn coins for selling it.
+
+### Equipping Fishing Rod
+
+It is only possible to equip a fishing rod if you own fishing rods. In this case, owning fishing rods will make you asked to enter the index of the
+fishing rod (from the list of fishing rods you own) that you want to equip.
+
+### Unequiping Fishing Rod
+
+You will be equipped with no fishing rods if you choose to unequip the fishing rod you're currently equipped with.
+
+### View Stats
+
+If you choose to view your stats, you will be shown your current stats.
+
+![View Stats](https://github.com/DtjiSoftwareDeveloper/Fishing-Tycoon/blob/main/images/View%20Stats.png)
