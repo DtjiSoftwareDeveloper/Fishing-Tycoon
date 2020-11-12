@@ -483,7 +483,7 @@ def main():
                 # Clearing up the command line window
                 clear()
 
-                print("Below is a list of fishing rods sold in " + str(new_game.shop.get_fishing_rods_sold()) + ".\n")
+                print("Below is a list of fishing rods sold in " + str(new_game.shop.name) + ".\n")
                 for fishing_rod in new_game.shop.get_fishing_rods_sold():
                     print(str(fishing_rod) + "\n")
 
